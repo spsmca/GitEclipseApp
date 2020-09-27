@@ -6,7 +6,6 @@ public class GoodDay{
 
         System.out.println("GoodDay Philip:Branch1....");
         
-        System.out.println("GoodDay Philip:Branch1....Modified in Local...);
 
 	}
 
