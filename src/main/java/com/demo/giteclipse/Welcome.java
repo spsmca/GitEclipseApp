@@ -8,7 +8,7 @@ public class Welcome {
         
         System.out.println("Welcome Philip:Branch1....Modified in Local..);
 
-        System.out.println("Welcome Philip:Branch1....Modified in Remote...);
+        System.out.println("Welcome Philip:Branch1....Modified in Remote...BB);
 
 	}
 
